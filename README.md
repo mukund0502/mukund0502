@@ -8,7 +8,7 @@ Hello there! 👨‍💻 I'm *Mukund*, a final year Computer Science and Enginee
 ## Interests and Expertise
 My primary interests lie in the fascinating domains of:
 
-* Software Development 🚀
+* Software Development🚀
 * Machine Learning Engineering 🤖
 * Artificial Intelligence 🧠
 
@@ -18,13 +18,13 @@ I have successfully navigated through various computer science and engineering c
 
 
 ## Projects
-* Text to text generation using *Generative adversarial network*:
+* [Text to text generation using *Generative adversarial network*](https://github.com/mukund0502/text2text_GAN)
     * Description: Used comditional GAN for data augmentation to reduce biasness of the dataset.
     * Technologies Used: Python, NLP, Tensorflow, GloVe, CNN, Numpy.
-* Sudoku Solver using image  processing : 
+* [Sudoku Solver using image  processing](https://github.com/mukund0502/SudokuSolver)
     * Description: Solve sudoku by scanning the image of sudoku.
     * Technologies Used: Flask, CNN, CV2, Computer vision, HTML, CSS, JavaScript, Tensorflow.
-* E-commerce react web app 
+* [E-commerce react web app](https://github.com/mukund0502/E-commerce) 
     * Description: Used react to build e-commerce app.
     * Technologies Used: React.
 
@@ -44,8 +44,9 @@ Feel free to explore my repositories for a closer look at these projects and mor
 
 
 ## Contact
-* LinkedIn: https://www.linkedin.com/in/mknd1/
-* Email: mukundwh8@gmail.com <br>
+* [LinkedIn](https://www.linkedin.com/in/mknd1/)
+* [Portfolio](https://mukund0502.github.io/portfolio/)
+* [Email](mukundwh8@gmail.com) <br>
 
 
 
@@ -54,7 +55,6 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 
 Thank you for visiting my GitHub profile! 😊
-
 <!--
 **mukund0502/mukund0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
