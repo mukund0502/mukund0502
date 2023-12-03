@@ -16,6 +16,10 @@ My primary interests lie in the fascinating domains of:
 ## Academic Journey
 I have successfully navigated through various computer science and engineering courses, gaining a strong foundation in both theoretical concepts and practical applications. My academic journey has equipped me with the skills to tackle complex problems and devise innovative solutions.
 
+## My Journey
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neeraj2212&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=dark"> --->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund0502&layout=compact&theme=dark">
+
 
 ## Projects
 * [Text to text generation using *Generative adversarial network*](https://github.com/mukund0502/text2text_GAN)
