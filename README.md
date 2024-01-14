@@ -28,9 +28,9 @@ I have successfully navigated through various computer science and engineering c
 * [Sudoku Solver using image  processing](https://github.com/mukund0502/SudokuSolver)
     * Description: Solve sudoku by scanning the image of sudoku.
     * Technologies Used: Flask, CNN, CV2, Computer vision, HTML, CSS, JavaScript, Tensorflow.
-* [E-commerce react web app](https://github.com/mukund0502/E-commerce) 
-    * Description: Used react to build e-commerce app.
-    * Technologies Used: React.
+* [Fitness tracker](https://github.com/mukund0502/fitness_tracker) 
+    * Description: A user-friendly MERN-stack application that enables individuals to easily track and manage their daily fitness routines. Features include logging and tracking of both cardio and resistance exercises, viewing of workout history, and ability to delete exercises.
+    * Technologies Used: Mongoose, Express.js, React.js, Node.js, JWT Authentication
 
 Feel free to explore my repositories for a closer look at these projects and more!
 
