@@ -43,8 +43,8 @@ Feel free to explore my repositories for a closer look at these projects and mor
 
 
 ## Achievements
-* Earned 3⭐ on codechef and solved more than 480 DSA questions on leetcode.
-* Earned 5⭐ for python, c++ languages and 3⭐ for SQL on hackerrank.
+* Earned 4⭐ on codechef and solved more than 500 DSA questions on leetcode.
+* Earned 5⭐ for python, c++ languages and 5⭐ for SQL on hackerrank.
 
 
 ## Contact
