@@ -27,7 +27,7 @@ call and reply with AI generated audio reply.
 
 
 ## Personal Projects
-### Ask From Doc (RAG Application)
+### [Ask From Doc (RAG Application)](https://github.com/mukund0502/ask-from-doc-demo)
 * Description: An ask-from-doc application lets users upload documents and ask questions in natural language. It quickly reads the document and provides precise answers by extracting relevant information, making it easy to find specific content without manual searching.
 * Technologies Used: OpenAI, OpenAI Embedding, Azure, ChromaDB, Python, GenAI, Streamlit.
 
