@@ -27,12 +27,18 @@ call and reply with AI generated audio reply.
 
 
 ## Personal Projects
+### Ask From Doc (RAG Application)
+* Description: An ask-from-doc application lets users upload documents and ask questions in natural language. It quickly reads the document and provides precise answers by extracting relevant information, making it easy to find specific content without manual searching.
+* Technologies Used: OpenAI, OpenAI Embedding, Azure, ChromaDB, Python, GenAI, Streamlit.
+
 ### [Text to text generation using *Generative adversarial network*](https://github.com/mukund0502/text2text_GAN)
 * Description: Used comditional GAN for data augmentation to reduce biasness of the dataset.
 * Technologies Used: Python, NLP, Tensorflow, GloVe, CNN, Numpy.
+
 ### [Sudoku Solver using image  processing](https://github.com/mukund0502/SudokuSolver)
 * Description: Solve sudoku by scanning the image of sudoku.
 * Technologies Used: Flask, CNN, CV2, Computer vision, HTML, CSS, JavaScript, Tensorflow.
+
 
 Feel free to explore my repositories for a closer look at these projects and more!
 
@@ -46,10 +52,11 @@ Feel free to explore my repositories for a closer look at these projects and mor
 I have successfully navigated through various computer science and engineering courses, gaining a strong foundation in both theoretical concepts and practical applications. My academic journey has equipped me with the skills to tackle complex problems and devise innovative solutions.
 
 ## Skills
-* **Soft Skills :** Natural language processing, Natural language understanding, Transformers, Large language model, Artifitial intelligence, Machine learning, Agentic AI, Software Engineering, Computer vision, Audio processing. 
+* **Skills :** Generative AI, OpenAI, Natural language processing, Natural language understanding, Transformers, Large language model, Artifitial intelligence, Machine learning, Agentic AI, Software Engineering, Computer vision, Audio processing. 
 * **Programming Languages :** Python, C++.
-* **Machine Learning and Artificial Intelligence Libraries:** TensorFlow, PyTorch, Sci-kit learn, LangChain, LangGraph, Autogen. 
-* **Database Management:** SQL, MongoDB.
+* **Machine Learning and Artificial Intelligence Libraries:** TensorFlow, PyTorch, Sci-kit learn, LangChain, OpenAI, LangGraph, Autogen. 
+* **Database Management:** SQL, ChromaDB, MongoDB.
+* **Cloud Technology:** Azure.
 
 
 ## Achievements
